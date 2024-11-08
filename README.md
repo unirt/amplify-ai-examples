@@ -1,11 +1,15 @@
-## My Project
+# Amplify AI Samples
 
-TODO: Fill this README out!
+## Getting Started
 
-Be sure to:
+All of these samples use the Amplify AI. To run these samples you will need an AWS account with AWS Amplify set up and access to Bedrock models in the region you want to deploy in.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Running the samples
+
+Navigate into the sample directory and then
+
+1. Install dependencies with `npm i` or `yarn`
+2. Run the Amplify sandbox command to create a cloud sandbox: `npx ampx sandbox`
 
 ## Security
 
