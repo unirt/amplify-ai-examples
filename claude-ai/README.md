@@ -1,4 +1,4 @@
-# Amplify AI Kit Example: Claude AI
+# Amplify AI Example: Claude AI
 
 This is a NextJS application that is built like Claude.ai or ChatGPT where you can see past conversations and resume conversations.
 
