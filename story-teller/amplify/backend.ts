@@ -12,7 +12,7 @@ import { getNews } from "./functions/getNews/resource";
 const KB_REGION = "us-west-2";
 
 // Replace with your own Knowledge Base ID
-const KB_ID = "F1234567890";
+const KB_ID = "F123456789";
 
 const backend = defineBackend({
   auth,
